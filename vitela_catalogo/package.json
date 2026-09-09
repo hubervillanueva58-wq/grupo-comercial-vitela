@@ -1,0 +1,6 @@
+{
+  "name":"vitela-catalogo",
+  "private":true,
+  "dependencies":{"@cloudflare/pages-plugin-cloudflare-access":"latest"},
+  "devDependencies":{"wrangler":"latest"}
+}

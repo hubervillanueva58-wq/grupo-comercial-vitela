@@ -1,0 +1,8 @@
+name = "vitela-catalogo"
+compatibility_date = "2026-09-08"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "VITELA_DB"
+database_name = "vitela-catalogo"
+database_id = "REEMPLAZA_CON_TU_DATABASE_ID"

@@ -1,0 +1,611 @@
+[
+  {
+    "id": 1,
+    "modelo": "Owala FreeSip",
+    "tam": 12,
+    "color": "Rojo",
+    "hex": "#BC2224",
+    "precio": 179,
+    "sku": "OWA-FS-12OZ-ROJ",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 12 oz en color Rojo.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Rojo",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-12OZ-ROJ/1.webp",
+      "images/OWA-FS-12OZ-ROJ/2.webp"
+    ]
+  },
+  {
+    "id": 2,
+    "modelo": "Owala FreeSip",
+    "tam": 12,
+    "color": "Blanco",
+    "hex": "#F5F1EC",
+    "precio": 179,
+    "sku": "OWA-FS-12OZ-BLA",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 12 oz en color Blanco.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Blanco",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-12OZ-BLA/1.webp",
+      "images/OWA-FS-12OZ-BLA/2.webp"
+    ]
+  },
+  {
+    "id": 3,
+    "modelo": "Owala FreeSip",
+    "tam": 12,
+    "color": "Negro",
+    "hex": "#232020",
+    "precio": 179,
+    "sku": "OWA-FS-12OZ-NEG",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 12 oz en color Negro.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Negro",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-12OZ-NEG/1.webp",
+      "images/OWA-FS-12OZ-NEG/2.webp"
+    ]
+  },
+  {
+    "id": 4,
+    "modelo": "Owala FreeSip",
+    "tam": 12,
+    "color": "Azul",
+    "hex": "#2C5A8C",
+    "precio": 179,
+    "sku": "OWA-FS-12OZ-AZU",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 12 oz en color Azul.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Azul",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-12OZ-AZU/1.webp",
+      "images/OWA-FS-12OZ-AZU/2.webp"
+    ]
+  },
+  {
+    "id": 5,
+    "modelo": "Owala FreeSip",
+    "tam": 12,
+    "color": "Verde",
+    "hex": "#3E7A57",
+    "precio": 179,
+    "sku": "OWA-FS-12OZ-VER",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 12 oz en color Verde.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Verde",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-12OZ-VER/1.webp",
+      "images/OWA-FS-12OZ-VER/2.webp"
+    ]
+  },
+  {
+    "id": 6,
+    "modelo": "Owala FreeSip",
+    "tam": 12,
+    "color": "Rosa",
+    "hex": "#D98BA0",
+    "precio": 179,
+    "sku": "OWA-FS-12OZ-ROS",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 12 oz en color Rosa.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Rosa",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-12OZ-ROS/1.webp",
+      "images/OWA-FS-12OZ-ROS/2.webp"
+    ]
+  },
+  {
+    "id": 7,
+    "modelo": "Owala FreeSip",
+    "tam": 24,
+    "color": "Rojo",
+    "hex": "#BC2224",
+    "precio": 219,
+    "sku": "OWA-FS-24OZ-ROJ",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 24 oz en color Rojo.",
+    "caracteristicas": [
+      "Capacidad: 24 oz",
+      "Color: Rojo",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-24OZ-ROJ/1.webp",
+      "images/OWA-FS-24OZ-ROJ/2.webp"
+    ]
+  },
+  {
+    "id": 8,
+    "modelo": "Owala FreeSip",
+    "tam": 24,
+    "color": "Blanco",
+    "hex": "#F5F1EC",
+    "precio": 219,
+    "sku": "OWA-FS-24OZ-BLA",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 24 oz en color Blanco.",
+    "caracteristicas": [
+      "Capacidad: 24 oz",
+      "Color: Blanco",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-24OZ-BLA/1.webp",
+      "images/OWA-FS-24OZ-BLA/2.webp"
+    ]
+  },
+  {
+    "id": 9,
+    "modelo": "Owala FreeSip",
+    "tam": 24,
+    "color": "Negro",
+    "hex": "#232020",
+    "precio": 219,
+    "sku": "OWA-FS-24OZ-NEG",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 24 oz en color Negro.",
+    "caracteristicas": [
+      "Capacidad: 24 oz",
+      "Color: Negro",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-24OZ-NEG/1.webp",
+      "images/OWA-FS-24OZ-NEG/2.webp"
+    ]
+  },
+  {
+    "id": 10,
+    "modelo": "Owala FreeSip",
+    "tam": 24,
+    "color": "Azul",
+    "hex": "#2C5A8C",
+    "precio": 219,
+    "sku": "OWA-FS-24OZ-AZU",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 24 oz en color Azul.",
+    "caracteristicas": [
+      "Capacidad: 24 oz",
+      "Color: Azul",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-24OZ-AZU/1.webp",
+      "images/OWA-FS-24OZ-AZU/2.webp"
+    ]
+  },
+  {
+    "id": 11,
+    "modelo": "Owala FreeSip",
+    "tam": 24,
+    "color": "Verde",
+    "hex": "#3E7A57",
+    "precio": 219,
+    "sku": "OWA-FS-24OZ-VER",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 24 oz en color Verde.",
+    "caracteristicas": [
+      "Capacidad: 24 oz",
+      "Color: Verde",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-24OZ-VER/1.webp",
+      "images/OWA-FS-24OZ-VER/2.webp"
+    ]
+  },
+  {
+    "id": 12,
+    "modelo": "Owala FreeSip",
+    "tam": 24,
+    "color": "Rosa",
+    "hex": "#D98BA0",
+    "precio": 219,
+    "sku": "OWA-FS-24OZ-ROS",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 24 oz en color Rosa.",
+    "caracteristicas": [
+      "Capacidad: 24 oz",
+      "Color: Rosa",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-24OZ-ROS/1.webp",
+      "images/OWA-FS-24OZ-ROS/2.webp"
+    ]
+  },
+  {
+    "id": 13,
+    "modelo": "Owala FreeSip",
+    "tam": 32,
+    "color": "Rojo",
+    "hex": "#BC2224",
+    "precio": 249,
+    "sku": "OWA-FS-32OZ-ROJ",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 32 oz en color Rojo.",
+    "caracteristicas": [
+      "Capacidad: 32 oz",
+      "Color: Rojo",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-32OZ-ROJ/1.webp",
+      "images/OWA-FS-32OZ-ROJ/2.webp"
+    ]
+  },
+  {
+    "id": 14,
+    "modelo": "Owala FreeSip",
+    "tam": 32,
+    "color": "Blanco",
+    "hex": "#F5F1EC",
+    "precio": 249,
+    "sku": "OWA-FS-32OZ-BLA",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 32 oz en color Blanco.",
+    "caracteristicas": [
+      "Capacidad: 32 oz",
+      "Color: Blanco",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-32OZ-BLA/1.webp",
+      "images/OWA-FS-32OZ-BLA/2.webp"
+    ]
+  },
+  {
+    "id": 15,
+    "modelo": "Owala FreeSip",
+    "tam": 32,
+    "color": "Negro",
+    "hex": "#232020",
+    "precio": 249,
+    "sku": "OWA-FS-32OZ-NEG",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 32 oz en color Negro.",
+    "caracteristicas": [
+      "Capacidad: 32 oz",
+      "Color: Negro",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-32OZ-NEG/1.webp",
+      "images/OWA-FS-32OZ-NEG/2.webp"
+    ]
+  },
+  {
+    "id": 16,
+    "modelo": "Owala FreeSip",
+    "tam": 32,
+    "color": "Azul",
+    "hex": "#2C5A8C",
+    "precio": 249,
+    "sku": "OWA-FS-32OZ-AZU",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 32 oz en color Azul.",
+    "caracteristicas": [
+      "Capacidad: 32 oz",
+      "Color: Azul",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-32OZ-AZU/1.webp",
+      "images/OWA-FS-32OZ-AZU/2.webp"
+    ]
+  },
+  {
+    "id": 17,
+    "modelo": "Owala FreeSip",
+    "tam": 32,
+    "color": "Verde",
+    "hex": "#3E7A57",
+    "precio": 249,
+    "sku": "OWA-FS-32OZ-VER",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 32 oz en color Verde.",
+    "caracteristicas": [
+      "Capacidad: 32 oz",
+      "Color: Verde",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-32OZ-VER/1.webp",
+      "images/OWA-FS-32OZ-VER/2.webp"
+    ]
+  },
+  {
+    "id": 18,
+    "modelo": "Owala FreeSip",
+    "tam": 32,
+    "color": "Rosa",
+    "hex": "#D98BA0",
+    "precio": 249,
+    "sku": "OWA-FS-32OZ-ROS",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala FreeSip de 32 oz en color Rosa.",
+    "caracteristicas": [
+      "Capacidad: 32 oz",
+      "Color: Rosa",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-FS-32OZ-ROS/1.webp",
+      "images/OWA-FS-32OZ-ROS/2.webp"
+    ]
+  },
+  {
+    "id": 19,
+    "modelo": "Owala Tumbler",
+    "tam": 40,
+    "color": "Rojo",
+    "hex": "#BC2224",
+    "precio": 299,
+    "sku": "OWA-TUM-40OZ-ROJ",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Tumbler de 40 oz en color Rojo.",
+    "caracteristicas": [
+      "Capacidad: 40 oz",
+      "Color: Rojo",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-TUM-40OZ-ROJ/1.webp",
+      "images/OWA-TUM-40OZ-ROJ/2.webp"
+    ]
+  },
+  {
+    "id": 20,
+    "modelo": "Owala Tumbler",
+    "tam": 40,
+    "color": "Blanco",
+    "hex": "#F5F1EC",
+    "precio": 299,
+    "sku": "OWA-TUM-40OZ-BLA",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Tumbler de 40 oz en color Blanco.",
+    "caracteristicas": [
+      "Capacidad: 40 oz",
+      "Color: Blanco",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-TUM-40OZ-BLA/1.webp",
+      "images/OWA-TUM-40OZ-BLA/2.webp"
+    ]
+  },
+  {
+    "id": 21,
+    "modelo": "Owala Tumbler",
+    "tam": 40,
+    "color": "Negro",
+    "hex": "#232020",
+    "precio": 299,
+    "sku": "OWA-TUM-40OZ-NEG",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Tumbler de 40 oz en color Negro.",
+    "caracteristicas": [
+      "Capacidad: 40 oz",
+      "Color: Negro",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-TUM-40OZ-NEG/1.webp",
+      "images/OWA-TUM-40OZ-NEG/2.webp"
+    ]
+  },
+  {
+    "id": 22,
+    "modelo": "Owala Tumbler",
+    "tam": 40,
+    "color": "Azul",
+    "hex": "#2C5A8C",
+    "precio": 299,
+    "sku": "OWA-TUM-40OZ-AZU",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Tumbler de 40 oz en color Azul.",
+    "caracteristicas": [
+      "Capacidad: 40 oz",
+      "Color: Azul",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-TUM-40OZ-AZU/1.webp",
+      "images/OWA-TUM-40OZ-AZU/2.webp"
+    ]
+  },
+  {
+    "id": 23,
+    "modelo": "Owala Tumbler",
+    "tam": 40,
+    "color": "Verde",
+    "hex": "#3E7A57",
+    "precio": 299,
+    "sku": "OWA-TUM-40OZ-VER",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Tumbler de 40 oz en color Verde.",
+    "caracteristicas": [
+      "Capacidad: 40 oz",
+      "Color: Verde",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-TUM-40OZ-VER/1.webp",
+      "images/OWA-TUM-40OZ-VER/2.webp"
+    ]
+  },
+  {
+    "id": 24,
+    "modelo": "Owala Tumbler",
+    "tam": 40,
+    "color": "Rosa",
+    "hex": "#D98BA0",
+    "precio": 299,
+    "sku": "OWA-TUM-40OZ-ROS",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Tumbler de 40 oz en color Rosa.",
+    "caracteristicas": [
+      "Capacidad: 40 oz",
+      "Color: Rosa",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-TUM-40OZ-ROS/1.webp",
+      "images/OWA-TUM-40OZ-ROS/2.webp"
+    ]
+  },
+  {
+    "id": 25,
+    "modelo": "Owala Kids",
+    "tam": 12,
+    "color": "Rojo",
+    "hex": "#BC2224",
+    "precio": 159,
+    "sku": "OWA-KID-12OZ-ROJ",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Kids de 12 oz en color Rojo.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Rojo",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-KID-12OZ-ROJ/1.webp",
+      "images/OWA-KID-12OZ-ROJ/2.webp"
+    ]
+  },
+  {
+    "id": 26,
+    "modelo": "Owala Kids",
+    "tam": 12,
+    "color": "Azul",
+    "hex": "#2C5A8C",
+    "precio": 159,
+    "sku": "OWA-KID-12OZ-AZU",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Kids de 12 oz en color Azul.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Azul",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-KID-12OZ-AZU/1.webp",
+      "images/OWA-KID-12OZ-AZU/2.webp"
+    ]
+  },
+  {
+    "id": 27,
+    "modelo": "Owala Kids",
+    "tam": 12,
+    "color": "Verde",
+    "hex": "#3E7A57",
+    "precio": 159,
+    "sku": "OWA-KID-12OZ-VER",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Kids de 12 oz en color Verde.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Verde",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-KID-12OZ-VER/1.webp",
+      "images/OWA-KID-12OZ-VER/2.webp"
+    ]
+  },
+  {
+    "id": 28,
+    "modelo": "Owala Kids",
+    "tam": 12,
+    "color": "Rosa",
+    "hex": "#D98BA0",
+    "precio": 159,
+    "sku": "OWA-KID-12OZ-ROS",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Kids de 12 oz en color Rosa.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Rosa",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-KID-12OZ-ROS/1.webp",
+      "images/OWA-KID-12OZ-ROS/2.webp"
+    ]
+  },
+  {
+    "id": 29,
+    "modelo": "Owala Kids",
+    "tam": 12,
+    "color": "Morado",
+    "hex": "#8A6BBE",
+    "precio": 159,
+    "sku": "OWA-KID-12OZ-MOR",
+    "categoria": "menudeo",
+    "stock": true,
+    "descripcion": "Owala Kids de 12 oz en color Morado.",
+    "caracteristicas": [
+      "Capacidad: 12 oz",
+      "Color: Morado",
+      "Producto sujeto a disponibilidad"
+    ],
+    "imagenes": [
+      "images/OWA-KID-12OZ-MOR/1.webp",
+      "images/OWA-KID-12OZ-MOR/2.webp"
+    ]
+  }
+]
